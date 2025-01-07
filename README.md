@@ -6,8 +6,8 @@
 
 
 https://github.com/anuraghazra/github-readme-stats <br /><br />
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-tpghks23&show_icons=true&theme=transparent) <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-tpghks23&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=geunpyoPark&show_icons=true&theme=transparent) <br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geunpyoPark&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 <br /><br />
 https://hits.seeyoufarm.com/<br /><br />
@@ -17,7 +17,7 @@ https://hits.seeyoufarm.com/<br /><br />
 
 
 <!--
-**dev-tpghks23/dev-tpghks23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**geunpyoPark/geunpyoPark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
